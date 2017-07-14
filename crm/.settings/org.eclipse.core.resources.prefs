@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebRoot/jsp/page.jsp=UTF-8
+encoding//src/com/cn/domain/PageBean.java=UTF-8
+encoding//src/com/cn/utils/FastJsonUtil.java=UTF-8
+encoding//src/com/cn/utils/MD5Utils.java=UTF-8
